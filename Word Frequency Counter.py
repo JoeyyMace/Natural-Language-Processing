@@ -2,7 +2,6 @@ import nltk
 import collections
 from nltk.tokenize import word_tokenize
 from collections import Counter
-import string
 
 def word_freq(text):
     #Tokenize text into words
